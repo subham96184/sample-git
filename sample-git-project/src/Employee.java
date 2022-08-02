@@ -7,6 +7,7 @@ public class Employee {
 		System.out.print(subham);
 		System.out.print(subham);
 		System.out.print(subham);
+		System.out.print(subham +"  "+subham);
 
 	}
 
