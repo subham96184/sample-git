@@ -8,7 +8,8 @@ public class Employee {
 		System.out.print(subham);
 		System.out.print(subham);
 		//commenr
-		System.out.print(subham +"  "+subham);
+		//System.out.print(subham +"  "+subham);
+		//.args..args...args.clone().
 		
 
 	}
